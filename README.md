@@ -66,6 +66,11 @@ outputs starting from the row 27
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/de62b37b-1e0e-4b88-913f-a7f2dc7ebfe8)
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/29b0b05a-20ce-4039-a2a0-a0491dc314a1)
 
+Third task:
+Now understad the clock latency and  work our algorithm to convert this to Industry standared format which is the SDC format.firs look at this blue box and the position of the coulumn here which need to convert into the standard format data.
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/17735390-074e-4d8e-8f7c-78debbc7dbd4)
+
 
 
 
