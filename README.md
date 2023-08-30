@@ -41,12 +41,11 @@ First Task has completed than second Task is to Convert all inputs to format [1]
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/68c95ac5-a03c-42b2-9cda-5f978c3b8f31)
 
 First subtask is to creat the varibales and convert all the information available into the excel sheet. and make a matrix to make things more simpler and proceed further to create variable. 
-Lets understand with help pf screenshot than perform the task on VM>
+Lets understand with help of screenshot than perform the task on VM>, with completion of the task,it will autocreate the variable. 
 
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/27004ff0-361f-46b0-8097-7a4e408c20f3)
 
-Now Perform the task on the VM and create variables.
-give command ./TCLbox openMSP430_design_details.csv
+Now Perform the task on the VM and create variables.give command ./TCLbox openMSP430_design_details.csv
 here is the outcome of the  performing task on VM.
 
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/5eb76eab-33fc-488b-a7e6-8dbca88589ca)
