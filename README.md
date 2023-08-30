@@ -85,7 +85,7 @@ first look at this blue box and the position of the coulumn here which need to c
 
  ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/20b41a63-913d-4e26-9a14-394f9f5815df)
 
-Process the input constraints and dump them in to the .csv file.  In this given below search space we need to apply the algorithm ro convert this data into the data which can than pass to the opentimer tool. inputs constarints in the .csv files are presented here in the given screenshot.
+Process the input constraints and dump them in to the .csv file.  In this given below search space we need to apply the algorithm ro convert this data into the data which can than pass to the further. inputs constarints in the .csv files are presented here in the given screenshot.
 
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/504dc13b-c08c-4068-bb2a-e3d9113b4ad8)
 
@@ -105,6 +105,23 @@ This is the code of script which will process the input constraints and dump it 
  It can be observe here that the file has written with the Input constraints.
  
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/9abe0c14-18c1-4717-a6fe-eb3fa42bd152)
+
+Process the output constraints and dump them in to the .csv file.  In this given below search space we need to apply the algorithm ro convert this data into the data which can than pass to the tool. OUTPUT constarints in the .csv files are presented here in the given screenshot
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/1aa4a51b-993f-4342-9d28-bafd7625432b)
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/63e3e68f-4214-4857-909d-c305ba630417)
+
+This is the code of script which will process the output constraints and dump it into the .csv file.
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/cab0af64-ba0f-4732-8943-1c9b56529985)
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/cda037e6-31fc-42f9-ba09-4718d64ecf5b)
+
+Now give the command the  ./TCLbox openMSP430_design_details.csv and observe how it works:
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/86e7ed2d-6f17-493e-a72f-73ae418d048a)
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/2fa6578a-128f-4fd9-8c72-35fad66ab28e)
+
+
 
 
 
