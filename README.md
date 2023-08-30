@@ -74,7 +74,7 @@ first look at this blue box and the position of the coulumn here which need to c
  This perticular section of the script dum the  process the clocks and dump it into the the .csv file
  Check the snippet of code here given below
  ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/16490439-b8c5-4bff-ba38-bdc20e6a5627)
- When run the scirpt wit the command ./TCLbox openMSP430_design_details.csv
+ When run the scirpt with the command over the terminal: ./TCLbox openMSP430_design_details.csv
  here is the outcome of the performing task and how the script works on the clock section and dumping on the .csv file. 
 
  ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/db9cdab7-7bb5-4ab3-86e5-9cf92617efb6)
@@ -90,12 +90,25 @@ Process the input constraints and dump them in to the .csv file.  In this given 
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/504dc13b-c08c-4068-bb2a-e3d9113b4ad8)
 
 
-This is the section of script which will work on this particluar sub task. 
+This is the code of script which will process the input constraints and dump it into the .csv file.
 
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/c2f1628f-5285-4374-b872-3aba8562456c)
 !![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/9eddb3ee-c241-4093-858d-2e5bc6b7f748)
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/17fe3de2-61bb-4e1e-9076-e9f709769870)
 
+ Now give the command the  ./TCLbox openMSP430_design_details.csv and observe how it works:
+ 
+ ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/91f26916-ae8f-40e1-8669-c164f4728fd3)
+
+ Now we will open the file and check the necessary constraints are written over or not.
+ give the command over terminal: vim outdir_openMSP430/openMSP430.sdc
+ It can be observe here that the file has written with the Input constraints.
+ 
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/9abe0c14-18c1-4717-a6fe-eb3fa42bd152)
+
+
+
+ 
 
 
 
