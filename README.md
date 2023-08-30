@@ -58,8 +58,15 @@ on the way to Processing of the constraints openMSP430_design_constraints.csv fi
 
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/c7feca7c-8e83-48aa-bc51-8ada6b12a476)
 
-If we check and open the constraints file, given below snippet here.
+If we check and open the constraints file, given below snippet here.the given columns and rows are matching here.Clocks[rows,coulmn] are starting from zero
+Inputs starting from the row 4
+outputs starting from the row 27
+
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/23304ef5-9cd3-41fe-9af6-1d8c33c32b63)
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/de62b37b-1e0e-4b88-913f-a7f2dc7ebfe8)
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/29b0b05a-20ce-4039-a2a0-a0491dc314a1)
+
+
 
 
 
