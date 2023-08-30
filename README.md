@@ -68,9 +68,10 @@ outputs starting from the row 27
 
 Third task:
 convert the format[1] & SDC formgat to the format[2] and pass to timing tool Opentimer tool.
-Now understad the clock latency and  work our algorithm to convert this to Industry standared format which is the SDC format.firs look at this blue box and the position of the coulumn here which need to convert into the standard format data.
-
+first look at this blue box and the position of the coulumn here which need to convert into the standard format data.Process the clock and inputs and dump into the .csv file. Now understad the clock latency and  work our algorithm to convert this to Industry standared format which is the SDC format
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/17735390-074e-4d8e-8f7c-78debbc7dbd4)
+
+
 
 
 
