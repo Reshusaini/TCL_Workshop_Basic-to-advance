@@ -71,6 +71,14 @@ convert the format[1] & SDC formgat to the format[2] and pass to timing tool Ope
 first look at this blue box and the position of the coulumn here which need to convert into the standard format data.Process the clock and inputs and dump into the .csv file. Now understad the clock latency and  work our algorithm to convert this to Industry standared format which is the SDC format
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/17735390-074e-4d8e-8f7c-78debbc7dbd4)
 
+ This perticular section of the script dum the  process the clocks and dump it into the the .csv file
+ Check the snippet of code here given below
+ ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/16490439-b8c5-4bff-ba38-bdc20e6a5627)
+ When run the scirpt wit the command ./TCLbox openMSP430_design_details.csv
+ here is the outcome of the performing task and how the script works on the clock section and dumping on the .csv file. 
+
+ ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/db9cdab7-7bb5-4ab3-86e5-9cf92617efb6)
+
 
 
 
