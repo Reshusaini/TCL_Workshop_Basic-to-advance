@@ -139,6 +139,14 @@ Now give the command the  ./TCLbox openMSP430_design_details.csv and observe how
 
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/87e10441-7e3e-45c6-9c3e-f170777bf610)
 
+Second scenrio is hierarchy check fail: to check this task. In verilog directory,  instance name changed to omsp_alu_new from omsp_alu.
+And th tcl script raised a flag and give message as the hirerachy check fail. Screenshot is given below
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/d9fec2c0-b1f1-40b6-bc40-d07f4e15ac86)
+
+
+
+
 
  
 
