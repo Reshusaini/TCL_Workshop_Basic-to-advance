@@ -9,6 +9,7 @@ TCL is widely used in VLSI industry for processing synthesis results, timing rep
 Tcl stands for Tool Command Language. A command follow the instructions given and generate output as example, output a string, compute a math expression, or display a widget on the screen. This strong language can creäte everything into the frame of a command, even programming constructs.
 
 DAY 1: Inception of the TCL workshop
+
 First understand the task and then break it to the many subtasks to learn step by step and generate the detailed report, which will be our Final output of the task. 
 
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/daeeb09f-1bcc-43b7-bfbb-ece2eb4332a3)
@@ -38,7 +39,8 @@ screenshot is given below:
 
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/f2af7b74-80bc-4428-89d4-663d9ad5be58)
 
-Second Task:
+DAY 2: Variable creation and processing constraints from CSV file
+
 First Task has completed than second Task is to Convert all inputs to format [1] &SDC format, pass to synthesis tool ‘Yosys’. To complete this task we need to break down the task into subtask and deep dive into the learning skill mode.  Tasks are mentioned one by one here in the snippet to achieve the final outcome of this task.
 
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/68c95ac5-a03c-42b2-9cda-5f978c3b8f31)
@@ -69,7 +71,8 @@ outputs starting from the row 27
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/de62b37b-1e0e-4b88-913f-a7f2dc7ebfe8)
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/29b0b05a-20ce-4039-a2a0-a0491dc314a1)
 
-Third task:
+DAY 3: Clock and Input constraints
+
 convert the format[1] & SDC formgat to the format[2] and pass to timing tool Opentimer tool.
 first look at this blue box and the position of the coulumn here which need to convert into the standard format data.Process the clock and inputs and dump into the .csv file. Now understad the clock latency and  work our algorithm to convert this to Industry standared format which is the SDC format
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/17735390-074e-4d8e-8f7c-78debbc7dbd4)
