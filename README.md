@@ -1,4 +1,4 @@
-![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/ef19f594-c923-410f-8a62-5c44b533a6b1)# TCL_Workshop_Basic-to-advance
+# TCL_Workshop_Basic-to-advance
 #TCL_scripting #VSD_learning #verilog #VLSI #Verification #YOSYS #Opentimer #Scripting_language
 
 TCL Workshop_5 DAYS: Learning from  Basic of TCL basics to Advance Scripting Techniques in VLSI. IN this workshop we are going to learn to build a user Interface which will conver the constraits in .csv file to sdc format. With help of Tools Yosys and Opentimer, This user interface will generate a detailed report of the synthesized netlist and prelayout timing report.
