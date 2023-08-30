@@ -1,4 +1,4 @@
-# TCL_Workshop_Basic-to-advance
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/ef19f594-c923-410f-8a62-5c44b533a6b1)# TCL_Workshop_Basic-to-advance
 #TCL_scripting #VSD_learning #verilog #VLSI #Verification #YOSYS #Opentimer #Scripting_language
 
 TCL Workshop_5 DAYS: Learning from  Basic of TCL basics to Advance Scripting Techniques in VLSI. IN this workshop we are going to learn to build a user Interface which will conver the constraits in .csv file to sdc format. With help of Tools Yosys and Opentimer, This user interface will generate a detailed report of the synthesized netlist and prelayout timing report.
@@ -84,6 +84,18 @@ first look at this blue box and the position of the coulumn here which need to c
  It can be observe here that the file has written with the clock constraints.
 
  ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/20b41a63-913d-4e26-9a14-394f9f5815df)
+
+Process the input constraints and dump them in to the .csv file.  In this given below search space we need to apply the algorithm ro convert this data into the data which can than pass to the opentimer tool. inputs contarints in the .csv files are gipresented here in the given screenshot.
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/504dc13b-c08c-4068-bb2a-e3d9113b4ad8)
+
+This is the section of script which will work on this particluar sub task. 
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/c2f1628f-5285-4374-b872-3aba8562456c)
+!![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/9eddb3ee-c241-4093-858d-2e5bc6b7f748)
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/17fe3de2-61bb-4e1e-9076-e9f709769870)
+
+
+
+
 
 
 
