@@ -126,8 +126,16 @@ Now give the command the  ./TCLbox openMSP430_design_details.csv and observe how
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/86e7ed2d-6f17-493e-a72f-73ae418d048a)
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/2fa6578a-128f-4fd9-8c72-35fad66ab28e)
 
+ Now we will open the file and check the necessary constraints are written over or not.
+ give the command over terminal: vim outdir_openMSP430/openMSP430.sdc
+ After scrolling down to the bottom of the document,It can be observe here that the file has written with the OUTPUT constraints.
+ 
+ ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/8ab3166a-8918-423c-bd81-df179c8ee11b)
 
+ 
 
+ 
+ 
 
 
 
