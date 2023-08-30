@@ -50,6 +50,11 @@ here is the outcome of the  performing task on VM.
 
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/5eb76eab-33fc-488b-a7e6-8dbca88589ca)
 
+Now checking the existence of files or not. second subtask is to check the all files are existing in the directory or not. With code adding in the tcl file, task has performed on  the terminal and screenshot for the same is given below.
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/a6843d5c-ea73-4e2f-908b-d44a29e9bb83)
+
+
 
 
 
