@@ -54,6 +54,14 @@ Now checking the existence of files or not. second subtask is to check the all f
 
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/a6843d5c-ea73-4e2f-908b-d44a29e9bb83)
 
+on the way to Processing of the constraints openMSP430_design_constraints.csv file here, we have put some puts command to find out the results and data avaiavle in the constraints.csv file. here we have put the return in the scipt to stop at that point and show th results after that we will match this data to the orogonal file existing in the directory. 
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/c7feca7c-8e83-48aa-bc51-8ada6b12a476)
+
+If we check and open the constraints file, given below snippet here.
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/23304ef5-9cd3-41fe-9af6-1d8c33c32b63)
+
+
 
 
 
