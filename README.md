@@ -79,6 +79,13 @@ first look at this blue box and the position of the coulumn here which need to c
 
  ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/db9cdab7-7bb5-4ab3-86e5-9cf92617efb6)
 
+ Now we will open the file and check the necessary constraints are written over or not.
+ give the command over terminal: vim outdir_openMSP430/openMSP430.sdc
+ It can be observe here that the file has written with the clock constraints.
+
+ ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/20b41a63-913d-4e26-9a14-394f9f5815df)
+
+
 
 
 
