@@ -118,8 +118,15 @@ This is the code of script which will process the output constraints and dump it
 
 Now give the command the  ./TCLbox openMSP430_design_details.csv and observe how it works:
 
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/7f55aa8c-d310-44ae-b9cf-a992907b5cd9)
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/6c7daa43-cb3c-43a0-9466-0f577a49b856)
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/48cd031f-fa8e-4765-8577-7e1b1b1bcdc4)
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/b58512d8-ff00-4be2-9396-57794f11133d)
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/00794fa5-c7c2-4bde-81b1-ae6b084c78b1)
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/86e7ed2d-6f17-493e-a72f-73ae418d048a)
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/2fa6578a-128f-4fd9-8c72-35fad66ab28e)
+
+
 
 
 
