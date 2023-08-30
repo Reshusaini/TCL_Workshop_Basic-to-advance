@@ -132,6 +132,20 @@ Now give the command the  ./TCLbox openMSP430_design_details.csv and observe how
  
  ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/8ab3166a-8918-423c-bd81-df179c8ee11b)
 
+ Now SDC final file has created, Now last task is to involved here was to perform hierarchy check. This task  which reads all 
+ the RTL files and elaborates. If either of the sub-module is not found then it will error out.Successfully created the hierarchy
+ check script to be used by the yosys.
+ First scenrio is hierarchy check passed
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/87e10441-7e3e-45c6-9c3e-f170777bf610)
+
+
+ ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/72527260-0312-418a-944e-e3fb3c76686d)
+ ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/17969204-b88a-4862-a4da-081d86bdce24)
+
+ 
+
+
  
 
  
