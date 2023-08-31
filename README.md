@@ -71,7 +71,7 @@ outputs starting from the row 27
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/de62b37b-1e0e-4b88-913f-a7f2dc7ebfe8)
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/29b0b05a-20ce-4039-a2a0-a0491dc314a1)
 
-DAY 3: Clock and Input constraints
+DAY 3: Clock and Input constraints from the csv file and dump these data into the sdc file.
 
 convert the format[1] & SDC formgat to the format[2] and pass to timing tool Opentimer tool.
 first look at this blue box and the position of the coulumn here which need to convert into the standard format data.Process the clock and inputs and dump into the .csv file. Now understad the clock latency and  work our algorithm to convert this to Industry standared format which is the SDC format
@@ -137,7 +137,9 @@ Now give the command the  ./TCLbox openMSP430_design_details.csv and observe how
  After scrolling down to the bottom of the document,It can be observe here that the file has written with the OUTPUT constraints.
  
  ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/8ab3166a-8918-423c-bd81-df179c8ee11b)
-
+ 
+ Day 4: Introduction of YOSYS synthesis and completing the script
+ 
  Now SDC final file has created, Now last task is to involved here was to perform hierarchy check. This task  which reads all 
  the RTL files and elaborates. If either of the sub-module is not found then it will error out.Successfully created the hierarchy
  check script to be used by the yosys.
