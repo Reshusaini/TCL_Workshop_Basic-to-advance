@@ -186,8 +186,20 @@ Screenshot of openMSP430.synthesis.log
 
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/b5462dd5-2d81-4413-84cb-0ae033dddf8e)
 
+Yosys and OpenTimer tool are different, Now we need to do some changes in the file .synth.v 
+file to make acceptable for openTimer tool.OpenTimer require a different format to read the netlist. The OpenTimer tool 
+dumps lines that contains '*' (asterik symbol) which is not understood.So, it is mandatory to edit the netlist before 
+forwarding it to Opentimer.
+Script to convert Yosys output netlist to opentimer compatible and here are the screenshots of the difference after conversion
+open the .synth.v file
 
-Now we need to do some changes in the synthesis.v file to make acceptable for openTimer tool. 
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/ebed6bf8-27ee-4714-b3ea-87f10dd765cc)
+ 
+open the final.synth.v file and observe the differences.
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/207daf51-82b3-430c-bf44-449dffdbceea)
+
+
 
 
 
