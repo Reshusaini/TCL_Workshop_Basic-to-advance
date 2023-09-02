@@ -190,14 +190,20 @@ Yosys and OpenTimer tool are different, Now we need to do some changes in the fi
 file to make acceptable for openTimer tool.OpenTimer require a different format to read the netlist. The OpenTimer tool 
 dumps lines that contains '*' (asterik symbol) which is not understood.So, it is mandatory to edit the netlist before 
 forwarding it to Opentimer.
-Script to convert Yosys output netlist to opentimer compatible and here are the screenshots of the difference after conversion
-open the .synth.v file
+converting Yosys output netlist to opentimer compatible
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/325b7033-7ed4-455f-9159-37303f648099)
+
+here are the screenshots of the difference after conversion open the .synth.v file
 
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/ebed6bf8-27ee-4714-b3ea-87f10dd765cc)
  
 open the final.synth.v file and observe the differences.
 
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/207daf51-82b3-430c-bf44-449dffdbceea)
+
+Procs
+
 
 
 
