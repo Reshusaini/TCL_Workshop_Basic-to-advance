@@ -252,7 +252,9 @@ The code for QoR generation has given below.
 
 Conclusion:
 Complete task to generate the synthesis and STA run_script has done accordingly with required user Interface. 
-The TCL toolbox successfully processes the csv file to generate the sdc constraints and run synthesis and STA to produce the quality of results.
+The TCL toolbox successfully processes the csv file to generate the sdc constraints and run synthesis and STA to produce 
+the quality of results.
+
 Acknowledgement:
 KunalGhosh, Co-founder, VSD Corp. Pvt. Ltd.
 https://www.vlsisystemdesign.com/
