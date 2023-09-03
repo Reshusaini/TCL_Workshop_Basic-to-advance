@@ -202,44 +202,61 @@ open the final.synth.v file and observe the differences.
 
 ![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/207daf51-82b3-430c-bf44-449dffdbceea)
 
-Procs
+Next is using the procs to write the  .conf file. To do the same basic code and screenshots are given below.
 
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/54b93fe7-9db5-404e-8a65-59c8b625303d)
+ and terminal screenshot
 
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/016e4cf1-ca94-4eab-91f8-cf0d8cc1e554)
 
+Preparation of rest of .conf & .spef files for OpenTimer STA have done here.for the same the code to write .spef with the current date and time in the spef code and to append the rest of the portion of .conf file.
 
+Code of the same and screenshots of terminal, .conf and .spef are shown below.
 
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/69039ced-c461-4dca-aa3a-74198e44d246)
+
+Terminal screen_shot
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/a99ecc26-93c6-46c2-9c5c-8c0a4b9d4918)
+
+Open MSP430.spef
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/da579df3-9565-473a-9c47-056542cf47bf)
+
+Open MSP430.conf
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/7469291a-4c6b-4376-acd0-cbe8474eb4eb)
+
+STA using OpenTimer
+Successfully written the code to run STA on OpenTimer and observe the runtime.
+Screenshot of code is given below
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/4e86cdb6-5c35-442e-bb9c-571949d220c9)
+
+Screenshot of terminal
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/517a8e96-4667-433c-91f9-ca3525027ac1)
+
+open MSP430.results
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/10fbcc3d-556a-481f-8163-74073418077a)
+
+QoR (Quality of Results) Generation:This is the final output for what the whole process and script done for the same
+The code for QoR generation has given below. 
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/2b26b4c2-6a0b-4847-b6c9-9bb4eeb1a81c)
+
+ the QOR report generated after post-processing is given below and screenshots of the terminal are shown below.
+
+![image](https://github.com/Reshusaini/TCL_Workshop_Basic-to-advance/assets/111287601/719fd69e-1c69-4304-8337-4ccb64d497fc)
+
+Conclusion:
+Complete task to generate the synthesis and STA run_script has done accordingly with required user Interface. 
+The TCL toolbox successfully processes the csv file to generate the sdc constraints and run synthesis and STA to produce the quality of results.
+Acknowledgement:
+KunalGhosh, Co-founder, VSD Corp. Pvt. Ltd.
+https://www.vlsisystemdesign.com/
 
 
 
  
-
-
- 
-
- 
- 
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
